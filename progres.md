@@ -11,3 +11,4 @@
 | 2026-11-25 | Binary Search | Basic Algorithms | Easy | Accepted | Add your time |
 | 2026-11-25 | Move Zeroes | Basic Algorithms | Easy | Accepted | Add your time |
 | 2026-11-25 | Valid Parentheses | Stacks | Easy | Accepted | Add your time |
+| 2026-11-25 | Reverse Linked List | Linked Lists | Easy | Accepted | Add your time |
